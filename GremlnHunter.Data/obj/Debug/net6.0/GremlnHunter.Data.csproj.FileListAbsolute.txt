@@ -1,0 +1,12 @@
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\bin\Debug\net6.0\GremlnHunter.Data.deps.json
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\bin\Debug\net6.0\GremlnHunter.Data.dll
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\bin\Debug\net6.0\ref\GremlnHunter.Data.dll
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\bin\Debug\net6.0\GremlnHunter.Data.pdb
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\obj\Debug\net6.0\GremlnHunter.Data.csproj.AssemblyReference.cache
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\obj\Debug\net6.0\GremlnHunter.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\obj\Debug\net6.0\GremlnHunter.Data.AssemblyInfoInputs.cache
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\obj\Debug\net6.0\GremlnHunter.Data.AssemblyInfo.cs
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\obj\Debug\net6.0\GremlnHunter.Data.csproj.CoreCompileInputs.cache
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\obj\Debug\net6.0\GremlnHunter.Data.dll
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\obj\Debug\net6.0\ref\GremlnHunter.Data.dll
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\GremlnHunter.Data\obj\Debug\net6.0\GremlnHunter.Data.pdb

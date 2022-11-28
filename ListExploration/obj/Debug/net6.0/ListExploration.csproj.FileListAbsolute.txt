@@ -1,0 +1,15 @@
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\bin\Debug\net6.0\ListExploration.exe
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\bin\Debug\net6.0\ListExploration.deps.json
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\bin\Debug\net6.0\ListExploration.runtimeconfig.json
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\bin\Debug\net6.0\ListExploration.dll
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\bin\Debug\net6.0\ref\ListExploration.dll
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\bin\Debug\net6.0\ListExploration.pdb
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ListExploration.csproj.AssemblyReference.cache
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ListExploration.GeneratedMSBuildEditorConfig.editorconfig
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ListExploration.AssemblyInfoInputs.cache
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ListExploration.AssemblyInfo.cs
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ListExploration.csproj.CoreCompileInputs.cache
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ListExploration.dll
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ref\ListExploration.dll
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ListExploration.pdb
+D:\160_ConsoleApps\NelsonFantIV\WalkThrough\ListExploration\obj\Debug\net6.0\ListExploration.genruntimeconfig.cache

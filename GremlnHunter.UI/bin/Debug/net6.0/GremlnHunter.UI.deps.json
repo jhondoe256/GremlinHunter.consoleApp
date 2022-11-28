@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GremlnHunter.UI/1.0.0": {
+        "dependencies": {
+          "GremlnHunter.Data": "1.0.0"
+        },
+        "runtime": {
+          "GremlnHunter.UI.dll": {}
+        }
+      },
+      "GremlnHunter.Data/1.0.0": {
+        "runtime": {
+          "GremlnHunter.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GremlnHunter.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GremlnHunter.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
